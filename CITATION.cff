@@ -8,5 +8,5 @@ authors:
 version: 1.0.0
 date-released: 2026-11-15
 license: MIT
-doi: "REPLACE-WITH-ZENODO-DOI"
-repository-code: "REPLACE-WITH-REPOSITORY-URL"
+doi: DOI: 10.5281/zenodo.24165745
+repository-code: https://github.com/sharadananda/IMCOM2027-Paper1-ML-ES-Evaluation.git
