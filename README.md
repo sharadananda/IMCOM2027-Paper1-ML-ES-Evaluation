@@ -27,7 +27,6 @@ Scripts that import `run_experiment_prospective.py` expect it in the same folder
 - H10 (explanation fidelity) was added after the other hypotheses had been evaluated and is exploratory.
 
 ## Citation
-See `CITATION.cff`. Replace the DOI placeholder after archiving (e.g. Zenodo).
-
+See `CITATION.cff`.
 ## Data attribution
 DOSM OpenDOSM datasets `productivity_qtr` and `productivity_state`, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Data were filtered and transformed for analysis. This analysis is the author's own and is not endorsed by DOSM.
