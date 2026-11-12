@@ -1,0 +1,116 @@
+{
+ "R": 20,
+ "records": 4890,
+ "dismissals": 648,
+ "reconstruction": {
+  "full": {
+   "L1_forecast": 1.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_features": {
+   "L1_forecast": 0.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_model_id": {
+   "L1_forecast": 0.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_forecast": {
+   "L1_forecast": 0.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_threshold": {
+   "L1_forecast": 1.0,
+   "L2_recommendation": 0.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_recommendation": {
+   "L1_forecast": 1.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 1.0,
+   "L5_decision": 1.0
+  },
+  "no_decision": {
+   "L1_forecast": 1.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 0.0,
+   "L5_decision": 0.0
+  },
+  "no_reason_or_reviewer": {
+   "L1_forecast": 1.0,
+   "L2_recommendation": 1.0,
+   "L3_counterfactual": 1.0,
+   "L4_accountability": 0.8658415001436545,
+   "L5_decision": 1.0
+  },
+  "minimal(unit,origin,decision)": {
+   "L1_forecast": 0.0,
+   "L2_recommendation": 0.0,
+   "L3_counterfactual": 0.0,
+   "L4_accountability": 0.8658415001436545,
+   "L5_decision": 1.0
+  }
+ },
+ "bytes_per_record": {
+  "full": 590.3147383423131,
+  "minimal(unit,origin,decision)": 222.44368427045006
+ },
+ "tamper_detection": {
+  "modify_forecast": {
+   "recompute_only": 1.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "modify_features": {
+   "recompute_only": 1.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "modify_decision": {
+   "recompute_only": 0.845,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "modify_reason": {
+   "recompute_only": 0.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "delete_record": {
+   "recompute_only": 0.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "reorder": {
+   "recompute_only": 0.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "insert_forged": {
+   "recompute_only": 0.0,
+   "chain_no_anchor": 1.0,
+   "chain_anchored": 1.0
+  },
+  "truncate_tail": {
+   "recompute_only": 0.0,
+   "chain_no_anchor": 0.0,
+   "chain_anchored": 1.0
+  }
+ }
+}

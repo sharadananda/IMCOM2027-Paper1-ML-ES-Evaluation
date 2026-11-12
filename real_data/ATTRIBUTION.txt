@@ -1,0 +1,3 @@
+Source: Department of Statistics Malaysia (DOSM), OpenDOSM datasets productivity_qtr and productivity_state, licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Changes: filtered to leaf sectors / state-sector units, transformed to growth rates and efficiency indices, and aggregated for the analysis in this repository.
+This analysis is the author's own and is not endorsed by DOSM.

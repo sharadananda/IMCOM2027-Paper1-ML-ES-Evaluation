@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code and results for Paper 1: Hybrid ML-Expert System decision support, prospective evaluation (IMCOM 2027)"
+authors:
+  - family-names: Mondal
+    given-names: Sharadananda
+    affiliation: "UniKL Business School, Universiti Kuala Lumpur"
+version: 1.0.0
+date-released: 2026-11-15
+license: MIT
+doi: "REPLACE-WITH-ZENODO-DOI"
+repository-code: "REPLACE-WITH-REPOSITORY-URL"
